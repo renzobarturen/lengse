@@ -1,0 +1,23 @@
+# Ejecución del Programa
+
+# 1. Configuración del Entorno Python
+cd C:\Renzo\DOCTORADO\TopicosAvanzadosComputacion\TrabajoFinal\lengse
+venv_sign\Scripts\activate
+set PYTHONPATH=%CD%
+
+# 2. Captura de frames
+python apps\preview_landmarks.py
+
+# L: se usa para etiquetar 
+# R: Iniciar y Detener grabación 
+# ESC: para detener programa
+
+# 3. Normalización de capturas y generación de dataset final
+python apps\build_dataset.py
+
+# 4. Entrenamiento del modelo
+python apps\train_baseline.py
+
+# 5. Ejecución del modelo
+python apps\run_realtime.py
+

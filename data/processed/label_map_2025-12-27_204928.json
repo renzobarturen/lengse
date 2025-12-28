@@ -1,0 +1,12 @@
+{
+  "label_to_idx": {
+    "bien_1": 0,
+    "mal": 1
+  },
+  "idx_to_label": {
+    "0": "bien_1",
+    "1": "mal"
+  },
+  "target_len": 150,
+  "min_frames": 5
+}

@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+numpy
+scipy
+torch
+torchvision
+torchaudio
+pytorch-lightning
+pyyaml
+pyttsx3
+sentencepiece

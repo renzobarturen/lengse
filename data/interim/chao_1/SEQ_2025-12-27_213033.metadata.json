@@ -1,0 +1,8 @@
+{
+  "label": "chao_1",
+  "frames": 61,
+  "fps": 25.417038184791345,
+  "backend": "DSHOW+MJPG  640x480@30",
+  "created_at": "2025-12-27_213033",
+  "schema": "signrt-landmarks-v1"
+}

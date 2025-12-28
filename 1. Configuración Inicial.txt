@@ -1,0 +1,18 @@
+# Configuración Inicial
+
+# 1) Desde CMD ingresar al directorio
+cd XXXXXXX\lengse
+
+# 2) Instalar el entorno de Python dentro del mismo proyecto (tengo Python en esa ruta)
+"C:\Program Files\Python311\python.exe" -m venv venv_sign
+venv_sign\Scripts\activate
+
+# 3) Actualiza instaladores dentro del venv (forma correcta)
+python -m pip install --upgrade pip setuptools wheel
+
+# 4) Verifica versión
+python -m pip --version
+
+# 5) Instala dependencias del proyecto
+python -m pip install -r requirements.txt
+

@@ -1,0 +1,16 @@
+{
+  "label_to_idx": {
+    "Como_te_llamas": 0,
+    "bien": 1,
+    "buenas_noches": 2,
+    "mal": 3
+  },
+  "idx_to_label": {
+    "0": "Como_te_llamas",
+    "1": "bien",
+    "2": "buenas_noches",
+    "3": "mal"
+  },
+  "target_len": 130,
+  "min_frames": 20
+}

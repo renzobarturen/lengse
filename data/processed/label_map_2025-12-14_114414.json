@@ -1,0 +1,12 @@
+{
+  "label_to_idx": {
+    "chao": 0,
+    "hola": 1
+  },
+  "idx_to_label": {
+    "0": "chao",
+    "1": "hola"
+  },
+  "target_len": 262,
+  "min_frames": 20
+}

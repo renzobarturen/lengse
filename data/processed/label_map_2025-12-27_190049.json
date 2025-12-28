@@ -1,0 +1,40 @@
+{
+  "label_to_idx": {
+    "Como_te_llamas": 0,
+    "bien": 1,
+    "buenas_noches": 2,
+    "buenas_tardes": 3,
+    "buenos_dias": 4,
+    "chao": 5,
+    "con_gusto": 6,
+    "de_nada": 7,
+    "gracias": 8,
+    "hola": 9,
+    "mal": 10,
+    "minombre_es": 11,
+    "perdon": 12,
+    "por_favor": 13,
+    "sordo": 14,
+    "unlabeled": 15
+  },
+  "idx_to_label": {
+    "0": "Como_te_llamas",
+    "1": "bien",
+    "2": "buenas_noches",
+    "3": "buenas_tardes",
+    "4": "buenos_dias",
+    "5": "chao",
+    "6": "con_gusto",
+    "7": "de_nada",
+    "8": "gracias",
+    "9": "hola",
+    "10": "mal",
+    "11": "minombre_es",
+    "12": "perdon",
+    "13": "por_favor",
+    "14": "sordo",
+    "15": "unlabeled"
+  },
+  "target_len": 262,
+  "min_frames": 20
+}

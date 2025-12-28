@@ -1,0 +1,16 @@
+{
+  "label_to_idx": {
+    "bien_1": 0,
+    "chao_1": 1,
+    "como_te_llamas1": 2,
+    "mal_1": 3
+  },
+  "idx_to_label": {
+    "0": "bien_1",
+    "1": "chao_1",
+    "2": "como_te_llamas1",
+    "3": "mal_1"
+  },
+  "target_len": 45,
+  "min_frames": 5
+}

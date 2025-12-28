@@ -1,0 +1,8 @@
+{
+  "label": "bien_1",
+  "frames": 44,
+  "fps": 7.6187798211423985,
+  "backend": "DSHOW+MJPG  640x480@30",
+  "created_at": "2025-12-27_200153",
+  "schema": "signrt-landmarks-v1"
+}

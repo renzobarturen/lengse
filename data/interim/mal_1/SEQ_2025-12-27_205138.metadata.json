@@ -1,0 +1,8 @@
+{
+  "label": "mal_1",
+  "frames": 33,
+  "fps": 7.60131336970306,
+  "backend": "DSHOW+MJPG  640x480@30",
+  "created_at": "2025-12-27_205138",
+  "schema": "signrt-landmarks-v1"
+}
